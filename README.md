@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shay
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning FullStack using React and Nodejs
+- 🌱 I’m currently Developing FullStack application using React and Nodejs
 - 📫 How to reach me: Shaymesh420@gmail.com
 
 <!---
