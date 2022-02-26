@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Shay
+- 👋 Hi, I’m Shay Mesh
 - 👀 I’m interested in Web development
 - 🌱 I’m currently Developing FullStack application using React and Nodejs
-- 📫 How to reach me: Shaymesh420@gmail.com
-
-<!---
-Bungling420/Bungling420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: Shaymesh01@gmail.com
